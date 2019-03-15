@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: woprsk/WpDebug
+ * Plugin Name: Woprsk WP Debug
  * Description: Simply write to the debug log.
  */
 
